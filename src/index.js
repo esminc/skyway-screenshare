@@ -32,5 +32,4 @@ class ScreenShare {
 }
 
 export default ScreenShare;
-// for interop exports
-module.exports = ScreenShare;
+
